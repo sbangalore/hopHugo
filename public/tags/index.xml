@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hop Health</title>
-    <link>/tags/</link>
+    <link>https://blog.hop.health/tags/</link>
     <description>Recent content in Tags on Hop Health</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Sep 2019 00:24:06 -0400</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.hop.health/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FUE</title>
-      <link>/tags/fue/</link>
+      <link>https://blog.hop.health/tags/fue/</link>
       <pubDate>Wed, 25 Sep 2019 00:24:06 -0400</pubDate>
       
-      <guid>/tags/fue/</guid>
+      <guid>https://blog.hop.health/tags/fue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FUT</title>
-      <link>/tags/fut/</link>
+      <link>https://blog.hop.health/tags/fut/</link>
       <pubDate>Wed, 25 Sep 2019 00:24:06 -0400</pubDate>
       
-      <guid>/tags/fut/</guid>
+      <guid>https://blog.hop.health/tags/fut/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hair loss</title>
-      <link>/tags/hair-loss/</link>
+      <link>https://blog.hop.health/tags/hair-loss/</link>
       <pubDate>Wed, 25 Sep 2019 00:24:06 -0400</pubDate>
       
-      <guid>/tags/hair-loss/</guid>
+      <guid>https://blog.hop.health/tags/hair-loss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>surgeries</title>
-      <link>/tags/surgeries/</link>
+      <link>https://blog.hop.health/tags/surgeries/</link>
       <pubDate>Wed, 25 Sep 2019 00:24:06 -0400</pubDate>
       
-      <guid>/tags/surgeries/</guid>
+      <guid>https://blog.hop.health/tags/surgeries/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://blog.hop.health"
 languageCode = "en-us"
 title = "Hop Health"
 theme = "hugo-type-theme"

@@ -1,0 +1,72 @@
+baseurl = "https://hop.health/"
+languageCode = "en-us"
+title = "Hop Health"
+theme = "hugo-type-theme"
+# Enable comments by entering your Disqus shortname
+disqusShortname = "hop-health"
+# Add your tracking code to enable Google Analytics
+googleAnalytics = "G-YKJHGR2MR0"
+# Posts per page
+paginate = 10
+# Comment the themesDir option if you use this theme in production
+# themesDir = "../.."
+
+
+[params]
+	author = "Hop Health"
+	description = "Helping patients access higher quality and more affordable healthcare"
+	# The keywords will be added as a meta tag. Delimit them with a comma.
+	keywords = "medical tourism, surgeries, affordable, quality, spinal fusion, dental crowns, hair transplant, hop health, hop, health"
+	# Either show custom avatar on the top
+	# left by adding the filename in below
+	avatar = "https://hop.health/favicon-32x32.png"
+	# or use Gravatar by adding your email address to generate a unique avatar
+	gravatar = "your@email.com"
+
+	#headerText = "
+	# To add a header background to the main site, save your image under static/img/yourimage.png
+	# and assign "yourimage.png" to the headerImage variable. If no image path is provided, a
+	# orange background will be shown instead.
+	headerImage = ""
+	copyright = "Hop Health 2019"
+
+	# Set title for Hugo's opengraph template
+	title = "Type theme"
+
+	[taxonomies]
+		# Use the series taxonomy to group blog posts in series. Related articles in the series
+		# will be used by Hugo's opengraph template
+  		series = "series"
+		tags = "tags"
+		categories = "categories"
+
+	# Define which types of content shall be displayed on the homepage. By default Hugo uses
+	# types with the most content files.
+	# mainSections = []
+
+	[params.social]
+		# Insert your accout name and the icon will be shown in the right menu
+		rss = false
+		homepage = true
+		email = "adam@hop.health"
+		behance = ""
+		bitbucket  =""
+		dribbble = ""
+		facebook = ""
+		flickr = ""
+		googleplus = ""
+		instagram = ""
+		linkedin = ""
+		pinterest = ""
+		reddit = ""
+		soundcloud = ""
+		stackexchange = ""
+		steam = ""
+		tumblr = ""
+		twitter = ""
+		wordpress = ""
+		youtube = ""
+		gitlab = ""
+		trello = ""
+		meetup = ""
+		speackerdeck = ""

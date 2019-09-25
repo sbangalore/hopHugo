@@ -2,7 +2,7 @@
 title = "Is a Hair Transplant right for you? Take Our Quiz to Find Out! + pros & cons"
 date = 2019-09-25T00:24:06-04:00
 description = "This article discusses different types of procedures for hair loss and whether you're a good candidate for an operation."
-draft = true
+draft = false
 tags = [
     "hair loss",
     "surgeries",

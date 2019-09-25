@@ -2,13 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hop Health</title>
-    <link>https://hop.health/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Hop Health</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 25 Sep 2019 00:24:06 -0400</lastBuildDate>
     
-	<atom:link href="https://hop.health/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>hair loss</title>
+      <link>/categories/hair-loss/</link>
+      <pubDate>Wed, 25 Sep 2019 00:24:06 -0400</pubDate>
+      
+      <guid>/categories/hair-loss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>surgeries</title>
+      <link>/categories/surgeries/</link>
+      <pubDate>Wed, 25 Sep 2019 00:24:06 -0400</pubDate>
+      
+      <guid>/categories/surgeries/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
